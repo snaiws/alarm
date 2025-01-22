@@ -1,0 +1,14 @@
+{
+    "alarms":[
+        {
+            "time":"06:00",
+            "sound":"./Constant Moderato.wav",
+            "message":"일어나라"
+        },
+        {
+            "time":"22:00",
+            "sound":"./Sunny.mp4",
+            "message":"자라"
+        }
+    ]
+}
